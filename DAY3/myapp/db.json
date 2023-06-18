@@ -1,0 +1,13 @@
+
+{
+
+"todos":[
+
+    {"id":1,"type":"Learned","message":"usestate","likes":1},
+    {"id":2,"type":"Learning","message":"Redux","likes":3},
+    {"id":3,"type":"Pending","message":"React","likes":2},
+    {"id":4,"type":"Revision","message":"Node JS","likes":1}
+]
+
+
+}
